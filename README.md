@@ -1,2 +1,6 @@
 # Clear-Sky
-A weather app created using AccuWeather API
+A Responsive weather app created using AccuWeather API.
+
+Run index.html
+
+
