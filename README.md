@@ -3,4 +3,4 @@ A Responsive weather app created using AccuWeather API.
 
 Run index.html
 
-![alt text](https://github.com/shreyas710/Clear-Sky/blob/master/1.png)
+<img src="https://github.com/shreyas710/Clear-Sky/raw/master/1.png" alt="alt text" width="400" height="500">
